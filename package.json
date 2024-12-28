@@ -1,5 +1,5 @@
 {
-    "name": "@bachi/bachi-scope",
+    "name": "@bachi-ai/bachi-scope",
     "version": "0.0.1",
     "description": "Bachi Scope",
     "main": "index.js",
