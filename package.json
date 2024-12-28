@@ -1,0 +1,17 @@
+{
+    "name": "@bachi/bachi-scope",
+    "version": "0.0.1",
+    "description": "Bachi Scope",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/freegheist/bachi-scope.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+  }
+  
